@@ -1,0 +1,246 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+   
+    
+    
+}
+.mainblock{
+    height: 100vh;
+    border: 2px solid white;
+
+
+
+}
+
+nav{
+    height: 100px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+   
+}
+
+.logoblock{
+    height: 100px;
+    width: 400px;
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+   
+}
+.menublock{
+    display: flex;
+    align-items: center;
+    justify-content:space-around;
+  
+   
+   
+}
+.sighnin{
+    height: 50px;
+    width: 100px;
+    background-color: red;
+    color: white;
+   margin-left: 10px;
+   border-radius: 7%;
+}
+select{
+    height: 50px;
+    width: 180px;
+    background-color: black;
+    color: white;
+    border-radius: 7%;
+    font-size: 22px;
+   padding-left: 10px;
+
+}
+.emailblock{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+     height: 100px;
+     margin-top: 25px;
+    padding-top: 5px;
+   
+    }
+
+    input{
+        height: 90px;
+        width: 500px;
+        font-size: 30px;
+        background-color: transparent;
+        
+    }
+    .getstarted{
+        height: 90px;
+        width: 300px;
+        color: white;
+        background-color: red;
+    }
+    .text1{
+        font-size: 80px;
+        margin-left: 9%;
+        margin-top: 10%;
+        color: white;
+    }
+    .text2{
+        font-size: 80px;
+        margin-left: 45%;
+        margin-top: 1%;
+        color: white;
+    }
+
+.text3{
+    font-size: 40px;
+    margin-left: 37%;
+   color: white;
+}
+    .textblock{
+        margin-top: 40px;
+        color: white;
+        margin-left: 470px;
+    }
+
+
+.mainblock{
+    background-image: url("./resources/US-en-20231204-popsignuptwoweeks-perspective_alpha_website_small.jpg");
+  
+}
+.grdient{
+    height: 100vh;
+    width: 1px;
+    position: absolute;
+    background-image: linear-gradient(to top,
+    rgba(0,0,0,0.8)0%,
+    rgba(0,0,0,0)50%,
+    rgba(0,0,0,0.8)100%
+    );
+}
+.text{
+    margin-top: 156px;
+    margin-left: 58px;
+    color: white;
+    font-size: 100px;
+}
+
+.mainblock2{
+    background-color: black;
+    height: 100vh;
+   
+    display: flex
+   
+}
+.block2{
+    display: flex;
+    align-items: center;
+   
+    justify-content: space-evenly;
+
+}
+.tvlogo{
+    margin-top:20px;
+   
+  
+}
+.textblock2{
+    height: 200px;
+    width: 800px;
+    margin-left: 100px;
+   
+    color: white;
+    font-size:40px;
+}
+.mainblock3{
+    display: flex;
+    align-items: center;
+    justify-content: baseline;
+    border: 2px solid white;
+    height: 100vh;
+    background-color: black;
+}
+.div3{
+   
+    height: 800px;
+    width: 1200px;
+    color: white;
+}
+.div3 >h1{
+    font-size: 40px;
+    margin-top: 200px;
+    margin-left: 60px;
+}
+.div3 >h2{
+    font-size:25px ;
+    margin-top: 45px;
+    margin-left: 60px;
+}
+.mainblock6{
+    justify-content: center;
+    background-color: black;
+    border: 2px solid white;
+    height: 150vh;
+}
+.nav6{
+    color: white;
+    height: 200px;
+    border: 2px solid;
+    width: 100%;
+    margin-top: 10px;
+    font-size: 48px;
+    padding-top: 40px;
+}
+.div6{
+   justify-content: center;
+    align-items: center;
+}
+.div6 > div{
+    display: flex;
+    align-items: center;
+    justify-content:space-between;
+    height: 120px;
+    width: 1560px;
+    background-color:dimgray;
+    border: 2px solid white;
+    margin-top: 10px;
+    margin-left: 200px;
+    padding-left: 40px;
+}
+.div6div{
+    background-color: blue;
+    height: 40px;
+    color:white;
+    font-size: 80px;
+
+}
+.div6div > h1{
+    font-size: 40px;
+}
+.imgtv{
+    height: 800px;
+    width:1000px;
+}
+p{
+    color: white;
+}
+h5{
+    margin-top:80px ;
+    margin-left: 350px;
+    color: white;
+    font-size: 20px;
+}
+.lastblock{
+    height: 500px;
+    border: 2px solid white;
+    background-color: black;
+}
+table{
+    color:white;
+    height: 100px;
+    width: 1200px;
+}
+
+
+
